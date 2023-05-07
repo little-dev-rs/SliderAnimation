@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  SliderAnimation
 //
-//  Created by Svetlana Shardakova on 07.05.2023.
-//
 
 import UIKit
 
